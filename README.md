@@ -98,3 +98,11 @@ This implementation is inspired by the evaluation metrics proposed in the follow
 ## License
 
 See [LICENSE](LICENSE) file for details.
+
+## Contributors
+
+<a href="https://github.com/cyberbuildlab/bim-bim-matching/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cyberbuildlab/bim-bim-matching" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
